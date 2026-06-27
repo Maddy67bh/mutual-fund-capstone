@@ -1,0 +1,5 @@
+*.db
+venv/
+data/raw/
+data/processed/etf_prices_clean.csv
+__pycache__/

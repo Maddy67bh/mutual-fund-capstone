@@ -1,0 +1,104 @@
+# 📊 Mutual Fund Analysis Dashboard
+
+## 📌 Overview
+
+This project analyzes Indian mutual fund data using Python, Pandas, and live NAV APIs.  
+It includes data ingestion, cleaning, analysis, and visualization of top mutual fund schemes.
+
+---
+
+## 🚀 Features
+
+- 📥 Automated data ingestion from CSV datasets
+- 🌐 Live NAV data fetch using MFAPI
+- 📊 Fund performance analysis
+- 🏦 Comparison of top bluechip mutual funds
+- 🧠 Data quality validation (AMFI code verification)
+- 📈 Interactive dashboard (planned/optional)
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn, Plotly
+- Requests (API calls)
+- SQL (basic analysis)
+- Jupyter Notebook
+
+---
+
+## 📂 Project Structure
+
+# 📊 Mutual Fund Analysis Dashboard
+
+## 📌 Overview
+
+This project analyzes Indian mutual fund data using Python, Pandas, and live NAV APIs.  
+It includes data ingestion, cleaning, analysis, and visualization of top mutual fund schemes.
+
+---
+
+## 🚀 Features
+
+- 📥 Automated data ingestion from CSV datasets
+- 🌐 Live NAV data fetch using MFAPI
+- 📊 Fund performance analysis
+- 🏦 Comparison of top bluechip mutual funds
+- 🧠 Data quality validation (AMFI code verification)
+- 📈 Interactive dashboard (planned/optional)
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn, Plotly
+- Requests (API calls)
+- SQL (basic analysis)
+- Jupyter Notebook
+
+---
+
+## 📂 Project Structure
+
+# 📊 Mutual Fund Analysis Dashboard
+
+## 📌 Overview
+
+This project analyzes Indian mutual fund data using Python, Pandas, and live NAV APIs.  
+It includes data ingestion, cleaning, analysis, and visualization of top mutual fund schemes.
+
+---
+
+## 🚀 Features
+
+- 📥 Automated data ingestion from CSV datasets
+- 🌐 Live NAV data fetch using MFAPI
+- 📊 Fund performance analysis
+- 🏦 Comparison of top bluechip mutual funds
+- 🧠 Data quality validation (AMFI code verification)
+- 📈 Interactive dashboard (planned/optional)
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn, Plotly
+- Requests (API calls)
+- SQL (basic analysis)
+- Jupyter Notebook
+
+---
+
+## 📂 Project Structure
+
+data/ Raw & processed datasets
+scripts/ Python automation scripts
+notebooks/ EDA and analysis
+dashboard/ Visualization dashboard
+reports/ Data quality reports
